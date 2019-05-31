@@ -9,6 +9,7 @@ A API converte entre as seguintes moedas:
 - BTC
 - ETH
 
+Link para a API /{from}/{to}/{amount}
 Ex: /EUR/BRL/60.00
 
 Arquivos do framework que foram alterados:
